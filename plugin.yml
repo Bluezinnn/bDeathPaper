@@ -1,0 +1,5 @@
+name: 'DeathPaper'
+author: 'Bluezin'
+main: 'DeathPaper\Main'
+api: ['4.0.0']
+version: '0.1'
